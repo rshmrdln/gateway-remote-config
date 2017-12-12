@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+   "gateway_ID": "B827EBFFFE47DACD",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 14.2439,
+    "ref_longitude": 121.1174,
+    "ref_altitude": 440,
+    "contact_email": "rxmeir.deleon@gmail.com",
+    "description": "IC880a Gateway"
+  }
+}
